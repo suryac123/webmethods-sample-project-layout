@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 
 <!--
     Copyright © 2018 Software AG, Darmstadt, Germany and/or its licensors
@@ -15,7 +15,7 @@
   <!-- nodes -->
 
 <MAP TIMEOUT="" MODE="STANDALONE">
-  <COMMENT></COMMENT>
+  <COMMENT>testing</COMMENT>
   <MAPTARGET>
 
 <Values version="2.0">
